@@ -1,2 +1,3 @@
-# define_your_terms
+# “Define Your Terms” : Enhancing Efficient Offensive Speech Classification with Definition.
 Code Repository for the paper “Define Your Terms” : Enhancing Efficient Offensive Speech Classification with Definition. 
+... To be Updated...
